@@ -1,4 +1,4 @@
 # Python Stock API
 
 * [finnhub.io quote](https://finnhub.io/docs/api/quote)
-* [example.py](https://raw.githubusercontent.com/eniompw/stockAPI/main/example.py)
+* [example.py](https://github.com/eniompw/stockAPI/blob/main/example.py)
