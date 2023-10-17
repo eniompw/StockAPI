@@ -1,6 +1,4 @@
 import requests
-res = requests.get("https://finnhub.io/api/v1/quote?symbol=AAPL&token=")
-
-import json
-dict = json.loads(res.text)
+r = requests.get("https://finnhub.io/api/v1/quote?symbol=AAPL&token=")
+dict = r.json()
 print(dict['c'])
