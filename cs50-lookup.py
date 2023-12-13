@@ -38,5 +38,6 @@ def lookup(symbol):
     except (requests.RequestException, ValueError, KeyError, IndexError):
         return None
 
-quote = lookup('aapl')
+# Example Apple quote AAPL
+quote = lookup('AAPL')
 print(quote)
