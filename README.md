@@ -1,11 +1,13 @@
 # Python Stock API
 
-* [example.py](https://github.com/eniompw/stockAPI/blob/main/example.py)
+* [Finnhub example.py](https://github.com/eniompw/stockAPI/blob/main/finnhub-example.py)
 
       import requests
       r = requests.get("https://finnhub.io/api/v1/quote?symbol=AAPL&token=")
       dict = r.json()
       print(dict['c'])
+
+* [CS50 Yahoo Finance example](https://github.com/eniompw/StockAPI/blob/main/cs50-lookup.py)
 
 ### Ref:
 * [requests](https://www.w3schools.com/python/ref_requests_response.asp)
