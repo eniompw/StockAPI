@@ -12,4 +12,4 @@
 ### Ref:
 * [requests](https://www.w3schools.com/python/ref_requests_response.asp)
 * [finnhub.io quote](https://finnhub.io/docs/api/quote)
-* [CS50 Finance lookup](https://cdn.cs50.net/2024/x/psets/9/finance/helpers.py?highlight)
+* [CS50 Finance lookup](https://cdn.cs50.net/2022/fall/psets/9/finance/helpers.py?highlight)
