@@ -1,6 +1,5 @@
 import csv
 import requests
-from contextlib import suppress
 
 def get_stock_info(company_name):
     """Fetches stock symbol and price for S&P 500 company"""
