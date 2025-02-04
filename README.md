@@ -7,6 +7,9 @@
       dict = r.json()
       print(dict['c'])
 
+![image](https://github.com/user-attachments/assets/94a308ad-a296-47f7-a92f-1c844f63ea9e)
+
+
 * [CS50 Yahoo Finance example](https://github.com/eniompw/StockAPI/blob/main/cs50-lookup.py)
 
 ### Ref:
