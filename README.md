@@ -2,10 +2,12 @@
 
 * [Finnhub example.py](https://github.com/eniompw/stockAPI/blob/main/finnhub-example.py)
 
-      import requests
-      r = requests.get("https://finnhub.io/api/v1/quote?symbol=AAPL&token=")
-      dict = r.json()
-      print(dict['c'])
+``` Python
+import requests
+r = requests.get("https://finnhub.io/api/v1/quote?symbol=AAPL&token=")
+dict = r.json()
+print(dict['c'])
+```
 
 ![image](https://github.com/user-attachments/assets/94a308ad-a296-47f7-a92f-1c844f63ea9e)
 
